@@ -1,5 +1,9 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <b-container fluid>
+    <b-row>
+      <b-col cols="6">
+        <h2>Desarrollado por Jonathan Burgos!</h2>
+      </b-col>
+    </b-row>
+  </b-container>
 </template>
